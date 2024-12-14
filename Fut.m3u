@@ -1,18 +1,12 @@
 #EXTM3U
 #EXTINF:-3,Espn
-https://z29vzc.la10tv.com/espn/index.m3u8?token=d634bfc4e8fa3da9d086b828408fd33186dd3a88-7b-1734063895-1734027895
-#EXTINF:-3,Espn 2
-https://aw1wcm92zq.la10tv.com/espn2mx/index.m3u8?token=eedcb46f73c8429efc188cec52a05a0746fcfc8c-4b-1734063742-1734027742
-#EXTINF:-3,Espn 3
-https://bgvnzw5k.la10tv.com/espn3/index.m3u8?token=60745c53bb6d2a92ab73f40d0ef962e8a2f77cce-bd-1734069829-1734033829
-#EXTINF:-3,Espn 4
-https://bgvnzw5k.la10tv.com/espn4/index.m3u8?token=423e92756d73bca6ff433546cd0f79f7f5e4ba01-c7-1734063986-1734027986
-#EXTINF:-3,Fox sports 2
-https://bgfuzq.la10tv.com/foxsports2mx/index.m3u8?token=725192d5f5b11f4d9959b2849847cab988056b83-d2-1734063813-1734027813
-#EXTINF:-3,Tudn
-https://y2fzdgxl.la10tv.com/tudn/index.m3u8?token=cb45954710dc1174f76a10c1f14b30a62eea12f2-d7-1734063410-1734027410
-#EXTINF:-3,Win +
-https://ym9yzq.la10tv.com/winsports2/index.m3u8?token=0d9239e63a49aa577b23cb3908076e6b48493d90-93-1734070140-1734034140
+https://z29vzc.la10tv.com/espn/index.m3u8?token=04bfefc45fcd7f8abd77852a344699e92a0d8dd3-29-1734235051-1734199051
+#EXTINF:-3,Espn deporte
+https://c2f2zq.la10tv.com/espndeportes/index.m3u8?token=389f37ef7428ea70b7b6e98b6eb03a9826e9c740-be-1734235003-1734199003
+#EXTINF:-3,Espn premium
+https://a2lja3m.la10tv.com/espnpremium/index.m3u8?token=23e4a193f2471d9b4253dbc18c682cfe7063ea2f-07-1734234952-1734198952
+#EXTINF:-3,Dsports
+https://z29vzc.la10tv.com/dsportsplus/index.m3u8?token=a8217456306e878686883f26f29e0a9089fd9e4c-76-1734235123-1734199123
 #EXTINF:-3,
 
 #EXTINF:-3,
