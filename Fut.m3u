@@ -1,12 +1,16 @@
 #EXTM3U
 #EXTINF:-3,Espn
-https://z29vzc.la10tv.com/espn/index.m3u8?token=04bfefc45fcd7f8abd77852a344699e92a0d8dd3-29-1734235051-1734199051
-#EXTINF:-3,Espn deporte
-https://c2f2zq.la10tv.com/espndeportes/index.m3u8?token=389f37ef7428ea70b7b6e98b6eb03a9826e9c740-be-1734235003-1734199003
-#EXTINF:-3,Espn premium
-https://a2lja3m.la10tv.com/espnpremium/index.m3u8?token=23e4a193f2471d9b4253dbc18c682cfe7063ea2f-07-1734234952-1734198952
-#EXTINF:-3,Dsports
-https://z29vzc.la10tv.com/dsportsplus/index.m3u8?token=a8217456306e878686883f26f29e0a9089fd9e4c-76-1734235123-1734199123
-#EXTINF:-3,
 
+#EXTINF:-3,Espn deporte
+
+#EXTINF:-3,Espn premium
+https://dglvz29s.la10tv.com/espnpremium/index.m3u8?token=83242ab9d553e5dcb8c6a972269ab4be38186d18-56-1734335816-1734299816
+#EXTINF:-3,Tnt
+https://c2f2zq.la10tv.com/tntsports/index.m3u8?token=4d7d3c459efd13eb49869c56d5086404eb4e11de-84-1734336448-1734300448
+#EXTINF:-3,Tudn
+https://yxdlc29tzq.la10tv.com/tudn/index.m3u8?token=ee835056a58f74d0580d10da249c09652c1dd92a-0b-1734335852-1734299852
+#EXTINF:-3,Tycsports
+https://c3bvcnrz.la10tv.com/tycinternacional/index.m3u8?token=c9184329b63670abc7a24d34263a8253b109d2ea-4a-1734335792-1734299792
+#EXTINF:-3,Win +
+https://aw1wcm92zq.la10tv.com/winsports2/index.m3u8?token=e53c8fce83265af39fe94c72e02b153b0d500162-c5-1734335739-1734299739
 #EXTINF:-3,
