@@ -1,16 +1,13 @@
 #EXTM3U
+#EXTINF:-3,Caracol
+https://cad99.pricesaskeloadsc.com/caracoltv/index.m3u8?token=3d777623915d2f6882016976a4e17ac35215655b-83-1736503395-1736467395
 #EXTINF:-3,Espn
-
-#EXTINF:-3,Espn deporte
-
-#EXTINF:-3,Espn premium
-https://dglvz29s.la10tv.com/espnpremium/index.m3u8?token=83242ab9d553e5dcb8c6a972269ab4be38186d18-56-1734335816-1734299816
-#EXTINF:-3,Tnt
-https://c2f2zq.la10tv.com/tntsports/index.m3u8?token=4d7d3c459efd13eb49869c56d5086404eb4e11de-84-1734336448-1734300448
+https://57c.pricesaskeloadsc.com/espn1/index.m3u8?token=d9bb477ed8e3fd29d22a9366ca8636c32f7783d8-ee-1736503584-1736467584
+#EXTINF:-3,Espn 2
+https://ca8s9.pricesaskeloadsc.com/espn2/index.m3u8?token=14e8f042cfc73a49766ec47c7dce51476ad34d49-f2-1736503605-1736467605
+#EXTINF:-3,Rcn
+https://5156.pricesaskeloadsc.com/rcnco/index.m3u8?token=b2e5a671941607eb70680a2099287ec01b35a546-8d-1736503879-1736467879
 #EXTINF:-3,Tudn
-https://yxdlc29tzq.la10tv.com/tudn/index.m3u8?token=ee835056a58f74d0580d10da249c09652c1dd92a-0b-1734335852-1734299852
-#EXTINF:-3,Tycsports
-https://c3bvcnrz.la10tv.com/tycinternacional/index.m3u8?token=c9184329b63670abc7a24d34263a8253b109d2ea-4a-1734335792-1734299792
+#EXTINF:-3,
 #EXTINF:-3,Win +
-https://aw1wcm92zq.la10tv.com/winsports2/index.m3u8?token=e53c8fce83265af39fe94c72e02b153b0d500162-c5-1734335739-1734299739
 #EXTINF:-3,
