@@ -1,27 +1,19 @@
 #EXTM3U
 #EXTINF:-3,Caracol
+#EXTINF:-3,Directv
+https://rm8zcvk3.fubohd.com/dsports/mono.m3u8?token=4041a21ef83a34296cac74f6c16887896806cf54-71-1758926434-1758908434
 #EXTINF:-3,Disney
-https://qzv4jmsc.fubohd.com/disney7/mono.m3u8?token=bdf00bbfc8f8fb385f8818ab242407a80aa124ab-46-1758843380-1758825380
 #EXTINF:-3,Disney 1
-https://rm8zcvk3.fubohd.com/disney8/mono.m3u8?token=f4aa8c802f7cbd10371f2ed1f974d901f866a92a-ec-1758843265-1758825265
 #EXTINF:-3,Espn
-https://ag9wzq.fubohd.com/espn/mono.m3u8?token=3060540475fb3a94be11ad18b50fc6acb11e0dec-a3-1758843295-1758825295
 #EXTINF:-3,Espn1
 #EXTINF:-3,Espn 2
-https://ag9wzq.fubohd.com/espn2/mono.m3u8?token=13a43c1a0d1b923eff975b9cd666ec47ee6f4d20-f6-1758843339-1758825339
 #EXTINF:-3,Espn 3
-https://agvyby.fubohd.com/espn3/mono.m3u8?token=485163cb92c2a471a0be10d6d04ca4ca631aaa09-b3-1758843177-1758825177
 #EXTINF:-3,Espn 4
-https://bgfuzq.fubohd.com/espn4mx/mono.m3u8?token=bd435e25d04991d20042af142e7353f31a2007d8-b1-1758835218-1758817218
-#EXTINF:-3,Espn 41
-https://tyg2mnl9.fubohd.com/espn4/mono.m3u8?token=4b98d75ccce6a019eacf5fbb0b8bb2eca4b1f74d-bc-1758838799-1758820799
 #EXTINF:-3,Espn 5
-https://agvyby.fubohd.com/espn5/mono.m3u8?token=90690c3991c3ef2fbaaf7dc0327a5d253890d76d-6d-1758843216-1758825216
 #EXTINF:-3,Espn 6
 #EXTINF:-3,Espn 7
-https://x4bnd7lq.fubohd.com/espn7/mono.m3u8?token=c3a17a563e6b24522d7e2c7bd9db1c48449c8341-5a-1758843132-1758825132
 #EXTINF:-3,Espn deportes
-https://tyg2mnl9.fubohd.com/espndeportes/mono.m3u8?token=550f138a615e8b9fd58fb80f2cd3880d93162516-d9-1758843410-1758825410
+https://2.betzta.com/espndeportes/mono.m3u8?token=85a87f5401237a55d6a950fa9e60c8d9ec6739d3-cc-1758926693-1758908693
 #EXTINF:-3,Tudn
 #EXTINF:-3,Win +
 #EXTINF:-3,
