@@ -1,10 +1,11 @@
 #EXTM3U
+#EXTINF:-3,América
+https://rm8zcvk3.fubohd.com/americatv/mono.m3u8?token=c8f2efe2021024b8da86be63340911eae097e5b5-61-1767915901-1767897901
 #EXTINF:-3,Canal 5
 #EXTINF:-3,Canal 7
 #EXTINF:-3,Caracol
 #EXTINF:-3,Directv
 #EXTINF:-3,Disney
-https://14c51.crackstreamslivehd.com/disney5/tracks-v1a1/mono.m3u8?ip=157.100.199.112&token=2f9dd1dcfe0ff0ebfdd3664b89a656fea24a2d39-f0-1767170954-1767116954
 #EXTINF:-3,Disney 1
 #EXTINF:-3,Disney 2
 #EXTINF:-3,Disney 3
@@ -14,13 +15,13 @@ https://14c51.crackstreamslivehd.com/disney5/tracks-v1a1/mono.m3u8?ip=157.100.19
 #EXTINF:-3,Disney 7
 #EXTINF:-3,Ecdf
 #EXTINF:-3,Espn
-https://a2vlca.fubohd.com/espn/mono.m3u8?token=4f13400ce9473c51a5ac2fd1204a688fac1acf89-45-1767140169-1767122169
+https://x4bnd7lq.fubohd.com/espn/mono.m3u8?token=e93f92accf7d9b906d0d2c8a1dddda96c2074cdd-9e-1767920669-1767902669
 #EXTINF:-3,Espn1
 #EXTINF:-3,Espnmx
 #EXTINF:-3,Espn 2
-https://ag9wzq.fubohd.com/espn2/mono.m3u8?token=4ac09af2216964e5ff72184c065dfff36a2bf6fc-66-1767142157-1767124157
 #EXTINF:-3,Espn 2mx
 #EXTINF:-3,Espn 3
+https://x4bnd7lq.fubohd.com/espn3/mono.m3u8?token=71b0b6689137bb5038663ab4f487c2cd2e0ecaa3-3d-1767920642-1767902642
 #EXTINF:-3,Espn 4
 #EXTINF:-3,Espn 5
 #EXTINF:-3,Espn 6
